@@ -2,7 +2,7 @@
 
 Sammlung aller Projekt-Dateien über Heizoel.Fuellstand.
 
-Messung der Distanz: Oberkante Öltank -> Oberfläche Öl
+Messung der Distanz "Oberkante Öltank -> Oberfläche Öl" mit einem Ultraschall-Sensor
 
 Genutzt Technologien:
 
