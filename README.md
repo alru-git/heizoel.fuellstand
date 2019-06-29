@@ -1,14 +1,12 @@
 # Heizoel.Fuellstand
 
-Sammlung aller Projekt-Dateien über Heizoel.Fuellstand.
-
 Messung der Distanz "Oberkante Öltank -> Oberfläche Öl" mit einem Ultraschall-Sensor
 
-Genutzt Technologien:
+Genutzte Technologien:
 
-- Arduino
-- Mysensors
-- Fhem
+- Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
+- Mysensors (Radio Gateway, https://www.mysensors.org/)
+- Fhem (Hausautomation Controller, https://fhem.de/)
 
 Inhalt:
 
